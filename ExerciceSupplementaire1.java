@@ -1,6 +1,6 @@
-package tableauxExeSup11;
+package tableauxExeSup1;
 
-public class TableauxExeSup11 {
+public class ExerciceSupplementaire1 {
 
 	public static void main(String[] args) {
 		// Générer 1 200 000 valeurs entre 1 et 6 les conserver 
